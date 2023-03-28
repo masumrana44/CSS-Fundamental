@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+}
+
+h1 {
+  color: #ff00ff;
+  font-size: 4em;
+  
+  
+}
+
+.container{
+border:1px double rgb(174, 18, 174);
+border-radius: 10px;
+width: 30vw;
+height:100vh;
+/* margin:50px 200px 60px 200px ; */
+overflow: hidden;
+padding:10px 20px;
+/* box-sizing: border-box; */
+/* box-sizing: content-box; */
+margin:0px auto;
+}
